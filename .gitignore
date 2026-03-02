@@ -1,0 +1,3 @@
+.metadata*
+hibernate.cfg.xml
+persistence.xml
